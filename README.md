@@ -1,13 +1,50 @@
-# Simon-Says-Game:
-Simon Says is an interactive memory-based game built using HTML, CSS, and JavaScript. The game challenges players to remember and repeat an increasingly long sequence of colors.
+# 🎮 Simon Says Game
 
-With each level, a new color is added to the sequence, testing the player's memory and concentration. The game also tracks and stores the highest score using browser localStorage.
+**An interactive memory-based game built with vanilla HTML, CSS, and JavaScript.**
 
-This project demonstrates strong understanding of:
+[Live Demo](https://simon-say-game-taupe.vercel.app/)
 
-1.DOM manipulation
-2.Event handling
-3.Game logic implementation
-4.Array sequence management
-5.Local storage usage
-6.Basic UI design
+---
+
+## Overview
+
+Simon Says challenges players to remember and repeat an increasingly long sequence of colors. With each level, a new color is added to the sequence, testing the player's memory and concentration. The game tracks and stores the highest score using browser `localStorage`, so your best run persists across sessions.
+
+## ✨ Features
+
+- Progressive difficulty — sequence grows by one color every level
+- High score tracking with `localStorage` persistence
+- Responsive, clean UI with color-flash feedback
+- Simple, dependency-free vanilla JS implementation
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (vanilla, no frameworks)
+
+## 📚 What This Project Demonstrates
+
+- DOM manipulation
+- Event handling
+- Game logic implementation
+- Array sequence management
+- Local storage usage
+- Basic UI design
+
+## 🚀 Live Demo
+
+🔗 [simon-say-game-taupe.vercel.app](https://simon-say-game-taupe.vercel.app/)
+
+## ⚙️ Getting Started
+
+```bash
+git clone https://github.com/Aditya-Rajpoot/Simon-Says-Game.git
+cd Simon-Says-Game
+```
+
+Simply open `index.html` in your browser — no build step or dependencies required.
+
+## 👤 Author
+
+Built by **Aditya Rajpoot**
